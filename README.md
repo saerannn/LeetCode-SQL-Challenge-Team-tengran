@@ -94,7 +94,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Solution_1]() | [Solution]() |
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | Easy |  [Solution_1]() | [Solution]() |
 | 1364 | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | Medium |  [Solution_1]() | [Solution]() |
-| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy |  [Solution_1]() | [Solution]() |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy |  [Solution_1](https://github.com/saerannn/LeetCode-SQL-Challenge-Team-tengran/blob/main/Join/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier_tengny.sql) | [Solution]() |
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard |  [Solution_1]() | [Solution]() |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy |  [Solution_1]() | [Solution]() |
 
