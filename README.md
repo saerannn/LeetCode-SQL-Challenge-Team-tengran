@@ -4,16 +4,13 @@
 <br><br>
 
 
-[leetcode](https://leetcode.com/) 에서 제공된 문제하고 풀이하고 기록합니다. 
-
-
-
-## 주제별 SQL 문제
+[leetcode](https://leetcode.com/) 에서 제공된 문제를 풀이하고 기록합니다. 
 
 주제 구분은 아래의 사이트를 참고했습니다.
 https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
-### Table of Content
+
+## Table of Content
 
 - [Basics](#basics)
 - [SQL Command](#sql-command)
@@ -27,8 +24,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 
 
-### Basics
----
+## Basics
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
@@ -49,8 +45,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Solution_1]() | [Solution]() |
 | 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | Medium |  [Solution_1]() | [Solution]() |
 
-### SQL Command
-------
+## SQL Command
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
@@ -58,8 +53,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Solution_1]() | [Solution]() |
 
 
-### Join
-------
+## Join
 
 #### Simple Join
 
@@ -104,7 +98,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard |  [Solution_1]() | [Solution]() |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy |  [Solution_1]() | [Solution]() |
 
-#### Advanced Join
+### Advanced Join
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
@@ -131,10 +125,9 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard |  [Solution_1]() | [Solution]() |
 
 
-### Subquery
-------
+## Subquery
 
-#### Simple Subquery
+### Simple Subquery
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
@@ -188,7 +181,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard |  [Solution_1]() | [Solution]() |
 
 
-#### Advanced Subquery
+### Advanced Subquery
 
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -209,7 +202,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium |   [Solution_1]() | [Solution]() |
 
 
-#### Recursive CTE
+### Recursive CTE
 
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -220,8 +213,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 
 
-### Window Function
-------
+## Window Function
 
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -264,8 +256,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1355 | [Activity Participants](https://leetcode.com/problems/activity-participants/) | Medium |   [Solution_1]() | [Solution]() |
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard |   [Solution_1]() | [Solution]() |
 
-### CASE WHEN or IIF
-------
+## CASE WHEN or IIF
 
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -294,8 +285,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium |  [Solution_1]() | [Solution]() |
 
 
-### OFFSET FETCH
-------
+## OFFSET FETCH
 
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -304,9 +294,8 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium |  [Solution_1]() | [Solution]() |
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium |  [Solution_1]() | [Solution]() |
 
-### PIVOT and UNPIVOT
-------
 
+## PIVOT and UNPIVOT
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
@@ -315,9 +304,8 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy |  [Solution_1]() | [Solution]() |
 | 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Solution_1]() | [Solution]() |
 
-### Variable
-------
 
+## Variable
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
