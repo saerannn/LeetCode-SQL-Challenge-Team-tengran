@@ -8,7 +8,7 @@
 
 주제 구분은 아래의 사이트를 참고했습니다.
 https://github.com/siqichen-usc/LeetCode-SQL-Summary
-
+<br><br>
 
 ## Table of Content
 
@@ -59,7 +59,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 <br><br>
 ## Join
-
+<br>
 ### Simple Join
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -103,7 +103,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard |  [Solution_1]() | [Solution]() |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy |  [Solution_1]() | [Solution]() |
 
-
+<br>
 ### Advanced Join
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -132,7 +132,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 <br><br>
 ## Subquery
-
+<br>
 ### Simple Subquery
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -186,7 +186,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1364 | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | Medium |   [Solution_1]() | [Solution]() |
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard |  [Solution_1]() | [Solution]() |
 
-
+<br>
 ### Advanced Subquery
 
 
@@ -207,7 +207,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1270 | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/) | Medium |   [Solution_1]() | [Solution]() |
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium |   [Solution_1]() | [Solution]() |
 
-
+<br>
 ### Recursive CTE
 
 
