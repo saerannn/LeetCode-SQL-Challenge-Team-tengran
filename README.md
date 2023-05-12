@@ -28,7 +28,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 
 ### Basics
-
+------
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
@@ -50,6 +50,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | Medium |  [Solution_1]() | [Solution]() |
 
 ### SQL Command
+------
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
@@ -58,6 +59,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 
 ### Join
+------
 
 #### Simple Join
 
@@ -128,7 +130,9 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium |  [Solution_1]() | [Solution]() |
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard |  [Solution_1]() | [Solution]() |
 
+
 ### Subquery
+------
 
 #### Simple Subquery
 
@@ -217,6 +221,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 
 ### Window Function
+------
 
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -260,6 +265,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard |   [Solution_1]() | [Solution]() |
 
 ### CASE WHEN or IIF
+------
 
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -289,6 +295,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 
 ### OFFSET FETCH
+------
 
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -298,6 +305,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium |  [Solution_1]() | [Solution]() |
 
 ### PIVOT and UNPIVOT
+------
 
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -308,6 +316,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Solution_1]() | [Solution]() |
 
 ### Variable
+------
 
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
