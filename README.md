@@ -15,7 +15,12 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 - [Basics](#basics)
 - [SQL Command](#sql-command)
 - [Join](#join)
+  - [Simple Join](#Simple Join)
+  - [Advanced Join](#Advanced Join)
 - [Subquery](#subquery)
+  - [Simple Subquery](#Simple Subquery)
+  - [Advanced Subquery](#Advanced Subquery)
+  - [Recursive CTE](#Recursive CTE)
 - [Window Function](#window-function)
 - [CASE WHEN / IIF](#case-when-or-iif)
 - [OFFSET FETCH](#offset-fetch)
@@ -55,7 +60,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 ## Join
 
-#### Simple Join
+### Simple Join
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
@@ -97,6 +102,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy |  [Solution_1]() | [Solution]() |
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard |  [Solution_1]() | [Solution]() |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy |  [Solution_1]() | [Solution]() |
+
 
 ### Advanced Join
 
