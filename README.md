@@ -1,5 +1,5 @@
 
-# LeetCode-SQL-Challenge :: Team tengrany
+# LeetCode-SQL-Challenge :: Team tengran
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%4169E1.svg?style=for-the-badge&logo=github&logoColor=white)
 <br><br>
 
