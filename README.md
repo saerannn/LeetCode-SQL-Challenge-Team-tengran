@@ -59,7 +59,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 <br><br>
 ## Join
-</br>
+
 ### Simple Join
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -104,6 +104,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy |  [Solution_1]() | [Solution]() |
 
 </br>
+
 ### Advanced Join
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -131,8 +132,9 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard |  [Solution_1]() | [Solution]() |
 
 <br><br>
+
 ## Subquery
-</br>
+
 ### Simple Subquery
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -187,6 +189,8 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard |  [Solution_1]() | [Solution]() |
 
 </br>
+
+
 ### Advanced Subquery
 
 
@@ -208,6 +212,8 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium |   [Solution_1]() | [Solution]() |
 
 </br>
+
+
 ### Recursive CTE
 
 
@@ -219,6 +225,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 
 <br><br>
+
 ## Window Function
 
 
