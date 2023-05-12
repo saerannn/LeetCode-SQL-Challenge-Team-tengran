@@ -28,7 +28,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 
 
 ### Basics
-------
+---
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
