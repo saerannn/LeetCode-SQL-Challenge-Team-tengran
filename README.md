@@ -74,7 +74,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Solution_1]() | [Solution]() |
 | 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium |  [Solution_1]() | [Solution]() |
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard |  [Solution_1]() | [Solution]() |
-| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy |  [Solution_1]() | [Solution]() |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy |  [Solution_1](https://github.com/saerannn/LeetCode-SQL-Challenge-Team-tengran/blob/main/Join/1068.%20Product%20Sales%20Analysis%20I_tengny.sql) | [Solution]() |
 | 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Medium |  [Solution_1]() | [Solution]() |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | Easy |  [Solution_1]() | [Solution]() |
 | 1077 | [Project Employees II](https://leetcode.com/problems/project-employees-iii/) | Medium |  [Solution_1]() | [Solution]() |
