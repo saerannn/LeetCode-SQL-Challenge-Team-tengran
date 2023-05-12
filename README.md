@@ -27,7 +27,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 - [PIVOT & UNPIVOT](#pivot-and-unpivot)
 - [Variable](#variable)
 
-
+<br><br>
 
 ## Basics
 
@@ -49,7 +49,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy |  [Solution_1]() | [Solution]() |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Solution_1]() | [Solution]() |
 | 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | Medium |  [Solution_1]() | [Solution]() |
-
+<br><br>
 ## SQL Command
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -57,7 +57,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy |  [Solution_1]() | [Solution]() |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Solution_1]() | [Solution]() |
 
-
+<br><br>
 ## Join
 
 ### Simple Join
@@ -130,7 +130,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium |  [Solution_1]() | [Solution]() |
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard |  [Solution_1]() | [Solution]() |
 
-
+<br><br>
 ## Subquery
 
 ### Simple Subquery
@@ -218,7 +218,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard |   [Solution_1]() | [Solution]() |
 
 
-
+<br><br>
 ## Window Function
 
 
@@ -262,8 +262,8 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1355 | [Activity Participants](https://leetcode.com/problems/activity-participants/) | Medium |   [Solution_1]() | [Solution]() |
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard |   [Solution_1]() | [Solution]() |
 
+<br><br>
 ## CASE WHEN or IIF
-
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
 | --- | --- | --- | --- |--- |
@@ -290,7 +290,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Solution_1]() | [Solution]() || 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium |  [Solution_1]() | [Solution]() |
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium |  [Solution_1]() | [Solution]() |
 
-
+<br><br>
 ## OFFSET FETCH
 
 
@@ -300,7 +300,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium |  [Solution_1]() | [Solution]() |
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium |  [Solution_1]() | [Solution]() |
 
-
+<br><br>
 ## PIVOT and UNPIVOT
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
@@ -310,7 +310,7 @@ https://github.com/siqichen-usc/LeetCode-SQL-Summary
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy |  [Solution_1]() | [Solution]() |
 | 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Solution_1]() | [Solution]() |
 
-
+<br><br>
 ## Variable
 
 | **No.** | **Title** | **Level** | **teng-ny Solution** | **ra-ny Solution** |
