@@ -8,4 +8,4 @@ FROM less
     LEFT JOIN Employees ON less.manager_id=Employees.employee_id
 WHERE Employees.employee_id IS NULL 
 AND less.manager_id IS NOT NULL
-ORDER BY 1
+ORDER BY 1  
