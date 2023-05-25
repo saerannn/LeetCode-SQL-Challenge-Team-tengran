@@ -10,7 +10,7 @@ WITH request_cnt AS (
          , COUNT(*) AS cnt
     FROM RequestAccepted
     GROUP BY 1
-#합친 테이블
+#합친 테이블  
 ), cnt AS (
     SELECT *
     FROM request_cnt
