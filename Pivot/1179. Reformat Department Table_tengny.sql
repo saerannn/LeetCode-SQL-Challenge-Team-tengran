@@ -12,4 +12,4 @@ SELECT id
      , SUM(CASE WHEN month="Nov" THEN revenue END) AS Nov_Revenue
      , SUM(CASE WHEN month="Dec" THEN revenue END) AS Dec_Revenue
 FROM Department
-GROUP BY id
+GROUP BY id  
